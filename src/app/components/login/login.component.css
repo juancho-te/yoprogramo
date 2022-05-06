@@ -1,0 +1,22 @@
+.login{
+    vertical-align: center;
+}
+.login ul {
+    display: flex;
+    list-style:none;
+    color:black !important;
+    position:relative;
+    right: 1px;
+    float: right;
+    vertical-align: center;
+    margin-top: 15px;
+    
+}
+.login li {
+    margin-left: 10px;
+    align-items: vertical;  
+}
+.argentinaprograma{
+    width:8%;
+    margin-top: 0px;
+}

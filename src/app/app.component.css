@@ -1,0 +1,27 @@
+
+.header-container {
+    border-radius: 60px 60px 0  0;
+    color:blue;
+    background-color:lightgray;
+    font-size: 20px;
+    padding:30px;
+    margin-top:0px;
+    height:250px;
+    
+}
+.login {
+    /*border:1px solid black;*/
+    padding-top: 10px;
+
+}
+
+.about-container{
+    border-radius:0 60px 0 60px;
+    color:blue;
+    background-color:lightgray;
+    font-size: 20px;
+    padding:30px;
+    margin-top:50px;
+    height:250px;
+
+}
